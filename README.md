@@ -1,3 +1,9 @@
+# 项目介绍
+
+这个项目是一个自用的模板项目，方便直接拿来做后续页面的开发。项目采用了以下技术：
+
+- Vue3
+- Vue Router
 # simple-vue
 
 ## Project setup
