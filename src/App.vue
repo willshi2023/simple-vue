@@ -13,6 +13,7 @@
           <router-link to="/contact" class="nav-link">联系我们</router-link>
           <router-link to="/problem" class="nav-link">常见问题</router-link>
           <router-link to="/word" class="nav-link">禅语</router-link>
+          <router-link to="/users" class="nav-link">用户管理</router-link>
           <!-- Add more links here if needed -->
         </nav>
       </div>

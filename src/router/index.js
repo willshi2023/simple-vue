@@ -6,6 +6,7 @@ import How from '../views/How.vue';
 import Problem from '../views/Problem.vue';
 import Word from '../views/Word.vue';
 import Contact from '../views/Contact.vue';
+import Users from '../views/Users.vue';
 
 const routes = [
   {
@@ -42,6 +43,11 @@ const routes = [
     path: '/contact',
     name: 'Contact',
     component: Contact
+  },
+  {
+    path: '/users',
+    name: 'Users',
+    component: Users
   }
 ];
 
